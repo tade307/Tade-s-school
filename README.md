@@ -1,2 +1,3 @@
 # Tade-s-school
-learning
+learning is fun
+wecome to me school
